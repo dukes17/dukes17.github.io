@@ -13,6 +13,7 @@ div {
 img {
     width:300px;
     transform: rotate(90deg);
+    allighn: center;
 }
 .trumpet{
     transform: rotate(90deg);
